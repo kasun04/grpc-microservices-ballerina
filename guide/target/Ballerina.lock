@@ -1,0 +1,10 @@
+[project]
+name = ""
+version = ""
+lockfileversion = "1"
+ballerinaversion = "0.981.2-SNAPSHOT"
+packages = [ "grpc_service" ]
+
+[[package]] 
+name = "grpc_service"
+
